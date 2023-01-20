@@ -1,6 +1,6 @@
 # Elm + Sass + Tailwind + Snowpack
 
-following [the tutorial](https://dev.to/mickeyvip/creating-an-elm-project-with-snowpack-1c1b) of [Mickey](https://dev.to/mickeyvip) I started this boilerplate
+Pursuant to [Mickey](https://dev.to/mickeyvip)'s [guidance](https://dev.to/mickeyvip/creating-an-elm-project-with-snowpack-1c1b), I initiated this template.
 
 ## Tech integrated
 
