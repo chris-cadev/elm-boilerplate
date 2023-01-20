@@ -8,3 +8,9 @@ Pursuant to [Mickey](https://dev.to/mickeyvip)'s [guidance](https://dev.to/micke
 - Sass
 - Tailwind
 - Snowpack
+
+## How to start it
+
+```bash
+yarn start
+```
