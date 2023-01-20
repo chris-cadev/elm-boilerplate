@@ -8,6 +8,7 @@ module.exports = {
     public: "/",
   },
   plugins: [
+    "@snowpack/plugin-sass",
     [
       "@snowpack/plugin-build-script",
       { cmd: "postcss", input: [".css"], output: [".css"] },
